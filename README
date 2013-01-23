@@ -1,3 +1,10 @@
+If you need the 2010q1 Toolchain, you can grab it here:
+http://d-h.st/6QP
+I used the black_open_eur_defconfig to compile the kernel.
+
+
+
+
 	Linux kernel release 3.x <http://kernel.org/>
 
 These are the release notes for Linux version 3.  Read them carefully,
